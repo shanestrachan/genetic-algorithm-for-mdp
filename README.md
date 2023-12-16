@@ -2,6 +2,8 @@
 
 **Project and Paper Author:** Shane Storm Strachan
 
+*Full Paper Forthcoming*
+
 ## Abstract
 
 This research explores the application of a genetic algorithm metaheuristic, enhanced through collective intelligence through the "wisdom of crowds," to tackle the NP-Complete Matrix Domination Problem (henceforth, TMDP). TMDP is identified as a specialized constraint problem where the objective is to strategically place a subset of nodes, termed dominators, within a matrix. The goal is for these dominators to exert control over the remaining nodes, a concept akin to achieving comprehensive influence within a graph. By leveraging the inherent exploratory nature of genetic algorithms and combining it with the wisdom of crowds, allows the algorithm to more effectively navigate the complex landscape possibilities of TMDP, especially in larger matrix sizes. My methodology relies on the employment of a fitness evaluation function to measure the efficacy of current solutions and a constraining function to address the stochastic characteristics typical of genetic algorithms and keep the solutions within the NP-Complete problem's definition.
@@ -42,14 +44,14 @@ In summary, TMDP is an exploration of strategic placement and influence within a
 
 ### Suggested Further Reading
 
-M. Yannakakis and F. Gavril, 1980. “Edge Dominating Sets in Graphs” SIAM Journal on Applied Mathematics , 38(3), pp. 364-372.
+M Garey and D Johnson, 1979. *Computers and Intractability: A Guide to the Theory of NP-Completeness*. W.H. Freeman Publishing.
 
-M Garey and D Johnson, 1979. Computers and Intractability: A Guide to the Theory of NP-Completeness. W.H. Freeman Publishing.
+M. Yannakakis and F. Gavril, 1980. “Edge Dominating Sets in Graphs” *SIAM Journal on Applied Mathematics*, 38(3), pp. 364-372.
 
-J Horton and K Kilakos, 1993, “Minimum Edge Dominating Sets” SIAM Journal on Discrete Mathematics 6(3),  pp. 375-387.
+J Horton and K Kilakos, 1993, “Minimum Edge Dominating Sets” *SIAM Journal on Discrete Mathematics* 6(3),  pp. 375-387.
 
-T Haynes, S Hedetniemi, and P Slater, 1998. Fundamentals of Domination in Graphs. Marcel Dekker Publishing. 
+T Haynes, S Hedetniemi, and P Slater, 1998. *Fundamentals of Domination in Graphs*. Marcel Dekker Publishing. 
 
-M Henning and A Yeo, 2013. Total Domination in Graphs, Springer Publishing. 
+R Yampolskiy, L Ashby, and L Hassan, 2012. “Wisdom of Artificial Crowds–A Metaheuristic Algorithm for Optimization,” *Journal of Intelligent Learning Systems and Applications* 4, pp. 98-107.
 
-R Yampolskiy, L Ashby, and L Hassan, 2012. “Wisdom of Artificial Crowds–A Metaheuristic Algorithm for Optimization,” Journal of Intelligent Learning Systems and Applications 4, pp. 98-107.
+M Henning and A Yeo, 2013. *Total Domination in Graphs*, Springer Publishing. 
